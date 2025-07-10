@@ -18,4 +18,6 @@ More updates coming as I learn more! 🚀
 ---
 
 > Made with ☕ and curiosity by [Talha](https://github.com/talhaberkayeren)
+---
 
+🔁 [Click here for Turkish version 🇹🇷](README.tr.md)
